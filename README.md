@@ -1,9 +1,9 @@
 # Henrique Treve 🚀
 
-[![Youtube](link-to-your-youtube)](http://www.youtube.com/@henriquetreve)
-[![Instagram](link-to-your-instagram)](https://www.instagram.com/henriquetreve/)
-[![Tiktok](link-to-your-tiktok)](https://www.tiktok.com/@henriquetreve)
-[![LinkedIn](link-to-your-linkedin)](https://www.linkedin.com/in/henriquetreve/)
+[![Youtube](youtube-icon-url)](https://www.youtube.com/@henriquetreve)
+[![Instagram](instagram-icon-url)](https://www.instagram.com/henriquetreve/)
+[![Tiktok](tiktok-icon-url)](https://www.tiktok.com/@henriquetreve)
+[![LinkedIn](linkedin-icon-url)](https://www.linkedin.com/in/henriquetreve/)
 
 ## "E aí Comandante!"
 
