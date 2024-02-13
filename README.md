@@ -1,4 +1,9 @@
-Henrique Treve
+# Henrique Treve 🚀
+
+[![Youtube](http://www.youtube.com/@henriquetreve)](Your Youtube URL)
+[![Instagram](https://www.instagram.com/henriquetreve/)](Your Instagram URL)
+[![Tiktok](https://www.tiktok.com/@henriquetreve)](Your Tiktok URL)
+[![LinkedIn](link-to-your-linkedin)](https://www.linkedin.com/in/henriquetreve/)
 
 - 👋 Hi, I’m @henriquetreve
 - 👀 I’m interested mainly in Python and SQL or everything related to Data Engineering and Cloud.
