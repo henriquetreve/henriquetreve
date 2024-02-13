@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuisHenrique1994
 - 👀 I’m interested mainly in Python and SQL or everything related to Data Engineering and Cloud.
 - 🌱 I’m currently learning Data manipulation with python, SQL and AWS tools such as EC2, S3, LAMBDA and REDSHIFT.
-- 💞️ I’m looking to collaborate on everything related to Data Engineering and Cloud.
+- 💞️ I’m looking to collaborate on everything related to Data Engineering.
 - 📫 How to reach me: contact me on linkedin profile or email.
 
 <!---
