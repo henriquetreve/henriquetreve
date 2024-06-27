@@ -9,8 +9,7 @@
 
 - 👋 Hi, I’m Henrique Treve, I'm Italian and Brazilian citizen based in Birmingham UK.
 - 👀 I’m interested mainly in Python and SQL, everything related to Data Engineering.
-- 🌱 I’m currently learning Data manipulation with python, SQL and AWS tools such as EC2, S3, LAMBDA and REDSHIFT.
-- 💞️ I’m looking for a graduate scheme to further develop my skills.
+- 🌱 I’m currently Data Engineer manipulating data with Python, SQL and GCP tools such as BigQuery and Looker Studio.
 - 📫 How to reach me: contact me on linkedin profile or email.
 
 <!---
