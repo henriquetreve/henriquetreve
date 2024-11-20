@@ -11,10 +11,14 @@
 📌 Currently, I'm working at Crafter's Companion on data migration projects to Google Cloud Platform (GCP), building optimized data flows, maintaining data quality, and crafting insightful dashboards using tools like Looker Studio, Power BI, and Tableau.
 
 🚀 What I bring to the table:
-  -Expertise in Python, SQL, and cloud environments (GCP, Azure, AWS).
-  -Advanced knowledge of BigQuery, ETL pipelines, and data warehousing.
-  -Strong background in BI tools, including Looker Studio and Power BI.
-  -Experience with open-source frameworks like Hadoop and Spark.
+  - Expertise in Python, SQL, and cloud environments (GCP, Azure, AWS).
+  - Advanced knowledge of BigQuery, ETL pipelines, and data warehousing.
+  - Strong background in BI tools, including Looker Studio and Power BI.
+  - Experience with open-source frameworks like Hadoop and Spark.
+- Expertise in Python, SQL, and cloud environments (GCP, Azure, AWS).
+- Advanced knowledge of BigQuery, ETL pipelines, and data warehousing.
+- Strong background in BI tools, including Looker Studio and Power BI.
+- Experience with open-source frameworks like Hadoop and Spark.
 
 🎓 Graduated with a 1st Class Honours in Computer Science from University College Birmingham. Constant learner, having completed courses in SQL, Python, and Data Science.
 💡 I believe in creating value through clean, efficient, and scalable data solutions while mentoring aspiring engineers in their journey toward technical excellence.
